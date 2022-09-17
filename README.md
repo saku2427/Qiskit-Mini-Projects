@@ -1,1 +1,1 @@
-# Qiskit Projects
+# Qiskit Mini Projects
